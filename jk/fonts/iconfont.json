@@ -1,0 +1,107 @@
+{
+  "id": "3902794",
+  "name": "myFlutter",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1306",
+      "name": "购物车空",
+      "font_class": "gouwuchekong",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "5030",
+      "name": "购物车满",
+      "font_class": "gouwucheman",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "508251",
+      "name": "麻醉药品",
+      "font_class": "mazuiyaopin",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "508264",
+      "name": "特殊药品",
+      "font_class": "teshuyaopin",
+      "unicode": "e617",
+      "unicode_decimal": 58903
+    },
+    {
+      "icon_id": "908532",
+      "name": "社区",
+      "font_class": "shequ",
+      "unicode": "e67e",
+      "unicode_decimal": 59006
+    },
+    {
+      "icon_id": "925499",
+      "name": "微信",
+      "font_class": "weixin",
+      "unicode": "e659",
+      "unicode_decimal": 58969
+    },
+    {
+      "icon_id": "978324",
+      "name": "用户",
+      "font_class": "yonghu",
+      "unicode": "e638",
+      "unicode_decimal": 58936
+    },
+    {
+      "icon_id": "1190565",
+      "name": "中西药品",
+      "font_class": "zhongxiyaopin",
+      "unicode": "e706",
+      "unicode_decimal": 59142
+    },
+    {
+      "icon_id": "1246668",
+      "name": "支付宝支付",
+      "font_class": "zhifubaozhifu",
+      "unicode": "e654",
+      "unicode_decimal": 58964
+    },
+    {
+      "icon_id": "1440397",
+      "name": "药品数据",
+      "font_class": "yaopinshuju",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "4427404",
+      "name": "主页",
+      "font_class": "tubiaozhizuomobanyihuifu-",
+      "unicode": "e69d",
+      "unicode_decimal": 59037
+    },
+    {
+      "icon_id": "6127286",
+      "name": "问卷",
+      "font_class": "wenjuan",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    },
+    {
+      "icon_id": "14110331",
+      "name": "药品管理选中",
+      "font_class": "gongzuotaixuanzhong",
+      "unicode": "e6c2",
+      "unicode_decimal": 59074
+    },
+    {
+      "icon_id": "31359597",
+      "name": "药品信息",
+      "font_class": "yaopinxinxi",
+      "unicode": "e62d",
+      "unicode_decimal": 58925
+    }
+  ]
+}
